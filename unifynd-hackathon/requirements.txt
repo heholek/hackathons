@@ -76,7 +76,7 @@ pandas == 0.22.0
 # scripts\binance_api_data_collector.py: 17
 # scripts\data_real_time.py: 5
 # scripts\utilities.py: 7
-requests == 2.18.4
+requests == 2.20.0
 
 # notebooks\.ipynb_checkpoints\tpot_pipeline-checkpoint.py: 6,8
 # notebooks\tpot_pipeline.py: 5,7
